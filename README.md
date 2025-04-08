@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Filip Radovic!
 #### 🏫 I'm a 3rd year Computer Engineering student at the Faculty Of Electrical Engineering, University of Belgrade.
-🔭 I’m currently working on a File Explorer in C++ using OpenGL and ImGUI, check it out on YouTube. <br>🌱 I’ve recently built a 3D Terrain Generator in C++ using OpenGL and ImGUI, you can watch the YouTube video by clicking here.<br>⚡ I'm currently looking for an internship (Summer 2025 or earlier) – open to remote or on-site opportunities in Serbia! <br>
-🔹 Feel free to DM me on Instagram, or email me.
+🔭 I’m currently working on a [**File Explorer**](https://github.com/archfella/FileExplorerMacOS) in C++ using OpenGL and ImGUI, check it out on [**YouTube**](). <br>🌱 I’ve recently built a [**3D Terrain Generator**](https://github.com/archfella/3D-Procedural-Terrain-Mesh-Generator) in C++ using OpenGL and ImGUI, you can watch the YouTube video by clicking [**here**]().<br>⚡ I'm currently looking for an internship (Summer 2025 or earlier) – open to remote or on-site opportunities in [**Serbia**]()! <br>
+🔹 Feel free to DM me on [**Instagram**](https://www.instagram.com/radoviccfilip/), or email me.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radoviccfilip) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCWW-GpRDnAUt7fLbKVg_E6g) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:funnybot80@gmail.com)
