@@ -13,6 +13,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=archfella&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archfella&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 📺 YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![I made a FAST File Explorer in C++](https://ytcards.demolab.com/?id=Jk4vkr6vP38&title=I+made+a+FAST+File+Explorer+in+C++&lang=en&timestamp=1744581600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261 "I made a FAST File Explorer in C++")](https://www.youtube.com/watch?v=Jk4vkr6vP38&t=50s)
+<!-- END YOUTUBE-CARDS -->
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=archfella&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
