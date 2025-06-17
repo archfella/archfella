@@ -13,4 +13,6 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![I made a FAST File Explorer in C++](https://ytcards.demolab.com/?id=Jk4vkr6vP38&title=I+made+a+FAST+File+Explorer+in+C++&lang=en&timestamp=1744581600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261 "I made a FAST File Explorer in C++")](https://www.youtube.com/watch?v=Jk4vkr6vP38&t=50s)
+
+[![I Made A Procedural Terrain Generator in C++](https://ytcards.demolab.com/?id=ZySew4Pxg3c&title=I+Made+A+Procedural+Terrain+Generator+in+C++&lang=en&timestamp=1744581600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261 "I Made A Procedural Terrain Generator in C++")](https://www.youtube.com/watch?v=ZySew4Pxg3c)
 <!-- END YOUTUBE-CARDS -->
